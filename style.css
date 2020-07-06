@@ -20,6 +20,7 @@ body {
 
 .counter {
   font-size: 6rem;
+  transition: .3s all ease-in-out;
 }
 
 .btn {
